@@ -1,0 +1,17 @@
+# No external dependencies required. All functionalities use built-in Python modules:
+# - urllib
+# - html.parser
+# - argparse
+# - tkinter
+# - http.server
+# - socketserver
+# - json
+# - sys
+# - re
+# - queue
+# - logging  # Built-in for realtime logging
+
+# Optional for extensions (e.g., JS rendering, advanced parsing):
+# scrapy==2.11.2
+# beautifulsoup4==4.12.3
+# requests==2.32.3
